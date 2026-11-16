@@ -1,0 +1,29 @@
+{
+ "name": "Estación Vet",
+ "short_name": "Estación Vet",
+ "description": "Estación Veterinaria",
+ "start_url": "/mostrador/estacion-veterinaria/",
+ "scope": "/mostrador/estacion-veterinaria/",
+ "display": "standalone",
+ "background_color": "#FFFFFF",
+ "theme_color": "#FAF7F2",
+ "icons": [
+  {
+   "src": "/mostrador/vet/c/estacion-veterinaria/icono-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/mostrador/vet/c/estacion-veterinaria/icono-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "/mostrador/vet/c/estacion-veterinaria/icono-mask-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ],
+ "id": "/mostrador/estacion-veterinaria/"
+}

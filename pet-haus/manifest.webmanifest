@@ -1,0 +1,29 @@
+{
+ "name": "Pet Haüs",
+ "short_name": "Pet Haüs",
+ "description": "Clínica veterinaria · Estética canina",
+ "start_url": "/mostrador/pet-haus/",
+ "scope": "/mostrador/pet-haus/",
+ "display": "standalone",
+ "background_color": "#2E2E2C",
+ "theme_color": "#2E2E2C",
+ "icons": [
+  {
+   "src": "/mostrador/vet/c/pet-haus/icono-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/mostrador/vet/c/pet-haus/icono-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "/mostrador/vet/c/pet-haus/icono-mask-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ],
+ "id": "/mostrador/pet-haus/"
+}
