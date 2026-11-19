@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 200"><defs><radialGradient id="b" cx="50%" cy="38%" r="75%"><stop offset="0" stop-color="#2A2158"/><stop offset="1" stop-color="#120E2A"/></radialGradient>
+<linearGradient id="sh" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".35"/><stop offset=".5" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<rect width="320" height="200" fill="url(#b)"/><ellipse cx="160" cy="182" rx="92" ry="9" fill="#000" opacity=".28"/><rect x="74" y="46" width="172" height="110" rx="12" fill="#1D4ED8"/><rect x="74" y="46" width="172" height="110" rx="12" fill="url(#sh)"/>
+<circle cx="206" cy="84" r="22" fill="#fff" opacity=".18"/><rect x="90" y="62" width="34" height="24" rx="4" fill="#FCD34D"/>
+<text x="92" y="136" font-family="Arial" font-weight="700" font-size="30" fill="#fff">$500</text><rect x="92" y="144" width="70" height="5" rx="2" fill="#fff" opacity=".5"/></svg>
